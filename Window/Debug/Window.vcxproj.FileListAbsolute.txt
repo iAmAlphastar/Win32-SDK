@@ -1,0 +1,2 @@
+C:\Z\Win32 SDK\Window\Debug\Window.exe
+C:\Z\Win32 SDK\Window\Debug\Window.pdb
